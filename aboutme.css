@@ -32,7 +32,6 @@ body {
     background-color: black;
     align-items: center;
     justify-content: center;
-    flex-basis: 1;
     margin-right: -90px;
 }
 
