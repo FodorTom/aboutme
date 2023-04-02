@@ -145,11 +145,13 @@ li {
 h1 {
     font-size: 6rem;
     padding: 3rem;
+    text-align: center;
 }
 
 p {
     font-size: 1.5rem;
     padding: 20px;
+    text-align: justify;
 }
 
 table {
@@ -162,4 +164,5 @@ table {
 th {
     text-align: center;
     font-size: 1.5rem;
+    padding: 0 30px;
 }
